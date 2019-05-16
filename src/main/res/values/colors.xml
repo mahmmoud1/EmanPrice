@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="backgroundColor">#8C9EFF</color>
+    <color name="category_man">#9e9e9e</color>
+    <color name="category_youth">#90a4ae</color>
+    <color name="category_kids">#bcaaa4</color>
+    <color name="category_baby">#80CBC4</color>
+    <color name="category_shoes">#aa93fa</color>
+</resources>

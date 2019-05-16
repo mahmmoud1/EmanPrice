@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">قائمة اسعار</string>
+    <!-- Category name for man [CHAR LIMIT=20] -->
+    <string name="category_man">اسعار موديلات الرجالى</string>
+    <!-- Category name for youth [CHAR LIMIT=20] -->
+    <string name="category_youth">اسعار موديلات المحير</string>
+    <!-- Category name for kids [CHAR LIMIT=20] -->
+    <string name="category_kids">اسعار موديلات الاطفال</string>
+    <!-- Category name for baby [CHAR LIMIT=20] -->
+    <string name="category_baby">اسعار موديلات البي بي</string>
+    <!-- Category name for shoes [CHAR LIMIT=20] -->
+    <string name="category_shoes">اسعار موديلات الشبشب</string>
+
+</resources>
